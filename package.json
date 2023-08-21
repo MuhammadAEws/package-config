@@ -1,0 +1,17 @@
+{
+  "name": "data3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mend-eicar/hello-world": "1.0.0",
+	"aries-test-pkg":"1.5.0",
+	"lodash":"3.10.1",
+	"sshpk":"1.13.1"
+  }
+}
